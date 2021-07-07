@@ -1,0 +1,13 @@
+E:\VS_2019_Projects\FFX_FizzBuzz\bin\Debug\netcoreapp3.1\FFX_FizzBuzz.exe
+E:\VS_2019_Projects\FFX_FizzBuzz\bin\Debug\netcoreapp3.1\FFX_FizzBuzz.deps.json
+E:\VS_2019_Projects\FFX_FizzBuzz\bin\Debug\netcoreapp3.1\FFX_FizzBuzz.runtimeconfig.json
+E:\VS_2019_Projects\FFX_FizzBuzz\bin\Debug\netcoreapp3.1\FFX_FizzBuzz.runtimeconfig.dev.json
+E:\VS_2019_Projects\FFX_FizzBuzz\bin\Debug\netcoreapp3.1\FFX_FizzBuzz.dll
+E:\VS_2019_Projects\FFX_FizzBuzz\bin\Debug\netcoreapp3.1\FFX_FizzBuzz.pdb
+E:\VS_2019_Projects\FFX_FizzBuzz\obj\Debug\netcoreapp3.1\FFX_FizzBuzz.csprojAssemblyReference.cache
+E:\VS_2019_Projects\FFX_FizzBuzz\obj\Debug\netcoreapp3.1\FFX_FizzBuzz.csproj.CoreCompileInputs.cache
+E:\VS_2019_Projects\FFX_FizzBuzz\obj\Debug\netcoreapp3.1\FFX_FizzBuzz.AssemblyInfoInputs.cache
+E:\VS_2019_Projects\FFX_FizzBuzz\obj\Debug\netcoreapp3.1\FFX_FizzBuzz.AssemblyInfo.cs
+E:\VS_2019_Projects\FFX_FizzBuzz\obj\Debug\netcoreapp3.1\FFX_FizzBuzz.dll
+E:\VS_2019_Projects\FFX_FizzBuzz\obj\Debug\netcoreapp3.1\FFX_FizzBuzz.pdb
+E:\VS_2019_Projects\FFX_FizzBuzz\obj\Debug\netcoreapp3.1\FFX_FizzBuzz.genruntimeconfig.cache
